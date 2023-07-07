@@ -446,6 +446,174 @@
         }
       ],
       "sobre": "Desenvolvido e mantido pela Microsoft, o TypeScript é um pré-processador open source de códigos JavaScript que auxilia na escrita de códigos, desde os mais simples até os mais complexos, utilizando tipagem de dados e os princípios da Orientação a Objetos para o desenvolvimento de aplicações front-end, back-end e mobile."
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 11
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 12
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 13
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 14
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 15
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 16
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 17
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 18
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 19
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 20
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 21
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 22
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 23
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 24
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 25
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 26
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 27
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 28
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 29
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 30
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros(categoria: 1) {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 31
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros(categoriaId: 1) {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 32
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 33
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 34
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 35
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 36
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 37
+    },
+    {
+      "operationName": "ObterLivros",
+      "variables": {},
+      "query": "query ObterLivros {\n  livros(categoriaId: 1) {\n    id\n    slug\n    titulo\n    imagemCapa\n    opcoesCompra {\n      id\n      preco\n      __typename\n    }\n    __typename\n  }\n}",
+      "id": 38
     }
   ],
   "autores": [
